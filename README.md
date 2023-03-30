@@ -79,7 +79,7 @@ I am a novice programmer <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/g
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Timofey-Chibyshev)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timofey-Chibyshev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timofey-Chibyshev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](your-linkedin-url) -->
