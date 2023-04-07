@@ -81,8 +81,7 @@ I am a novice programmer <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/g
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timofey-Chibyshev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timofey-Chibyshev&hide=javascript,css,scss,html&theme=tokyonight)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Timofey-Chibyshev&theme=blue-green)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timofey-Chibyshev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](your-linkedin-url) -->
